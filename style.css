@@ -114,12 +114,14 @@ nav a:active {
     flex-direction: column;
 }
 
+#isi{
+    margin: 10% 0%
+}
+
 .isi{
     text-align: center;
     padding: 15px 20px;
-    color: rgb(0, 0, 0);
-    margin: 5px 0px;
-    
+    color: rgb(0, 0, 0); 
 }
 
 .isi h1{
@@ -444,4 +446,5 @@ footer{
   text-align: center;
   padding: 20px 0px;
   background: #002b5b;
+
 }
